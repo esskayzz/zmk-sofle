@@ -60,7 +60,7 @@ layers:
   - func
   - $$mdi:keyboard-space$$
   - $$mdi:mouse-left-click-outline$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:keyboard-return$$'}
   - numpad
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-control$$
