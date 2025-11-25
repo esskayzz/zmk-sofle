@@ -147,7 +147,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:bluetooth-off$$
   - BT CLR ALL
-  - Ins
+  - INS
   - HOME
   - PgUp
   - $$mdi:pan-down$$
